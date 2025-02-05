@@ -30,14 +30,10 @@ The notebook uses the following Python libraries:
 - **scipy**
 - **plotly**
 
-Make sure these libraries are installed. For example, you can install them using pip:
-
-```bash
-pip install numpy matplotlib scipy plotly
-
 ---
 
 
 ## Author
 - **Name:** [Yuanting Han]
 - **Email:** [q2900725257@gmail.com]
+  
